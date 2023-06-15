@@ -5,3 +5,5 @@ Installed engines for pandas.read_excel() to work on xls and xlsx files
 -pip3 install openpyxl
 
 Changed the format of xlsx files to xls by saving them as xls
+
+Useful link for EDA : https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/
