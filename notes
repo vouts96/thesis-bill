@@ -7,6 +7,29 @@ pandas apply
 
 
 mongoDB username and password
+    username : billys
+    password : hMkRtEfVzSqDtRcS     hMkRtEfVzSqDtRcS    hMkRtEfVzSqDtRcS
 
-username : billys
-password : hMkRtEfVzSqDtRcS     hMkRtEfVzSqDtRcS    hMkRtEfVzSqDtRcS
+
+influx db username and password
+    username : billyntua
+    password : SWKQwyveKiBu5j       SWKQwyveKiBu5j      SWKQwyveKiBu5j 
+
+    username : spelekis
+    password : gfwy3ebr7435t849;'   gfwy3ebr7435t849;'  gfwy3ebr7435t849;'
+
+
+Ερωτήσεις:
+    Τι μορφή θες να έχει το csv?    (annotated csv)
+    Τι ακριβώς θέλεις να κάνω με το eda?    (τι δείκτες να πάρω κλπ)
+    Τα δεδομένα έχουν πολλά null values. Βλέπουμε όταν πλοτάρουμε ότι κάποια
+    έχουν δεδομένα για ένα χρονικό διάστημα και όχι για άλλο, ή ότι υπάρχει πολύ
+    μεγάλη διαφορά μεταξύ κάποιων διαστημάτων στις τιμές. Δηλαδή κάποιες είναι πολύ μικρές 
+    ενώ κάποιες άλλες είναι πολύ μεγάλες και συγκριτικά δεν έχουν νόημα.
+
+    Εγώ αυτό που σκεφτόμουν είναι να φτιάξω ένα dataframe για κάθε μήνα που διαβάζω και
+    να βάλω αυτό το dataframe στη βάση και αν είναι δυνατόν να επεξεργαστώ αυτά τα dataframes 
+    για την εκπαίδευση των μοντέλων. Απλά πρέπει να ξέρω το format που θέλουμε να έχουν τα 
+    δεδομένα και πως θα τα βάλω αυτά τα δεδομένα στη βάση. 
+    
+     
