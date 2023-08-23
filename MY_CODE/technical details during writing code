@@ -7,3 +7,9 @@ Installed engines for pandas.read_excel() to work on xls and xlsx files
 Changed the format of xlsx files to xls by saving them as xls
 
 Useful link for EDA : https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/
+
+
+Tasks to do till 28/08/23
+    Manipulate the format of the data to match with the wanted one
+    Save data into timescale
+    
