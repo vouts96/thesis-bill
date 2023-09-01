@@ -31,5 +31,12 @@ influx db username and password
     να βάλω αυτό το dataframe στη βάση και αν είναι δυνατόν να επεξεργαστώ αυτά τα dataframes 
     για την εκπαίδευση των μοντέλων. Απλά πρέπει να ξέρω το format που θέλουμε να έχουν τα 
     δεδομένα και πως θα τα βάλω αυτά τα δεδομένα στη βάση. 
+
+
+pandas iterows
+readcsv parse dates, infer datetime = True
+pandas group by, apply, aggregation #change code
+pandas filter αντι για drop
+timescale localy, docker
     
      
