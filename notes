@@ -38,5 +38,11 @@ readcsv parse dates, infer datetime = True
 pandas group by, apply, aggregation #change code
 pandas filter αντι για drop
 timescale localy, docker
+
+tasklist
+-eda
+-table of contents
+-lightGBM ενδεικτικά(σε καθε πολη, ολες οι πολεις μαζι)
+-cli (lightGBM -> machine learning representative, naive, deepLearning 1 ή 2 NBEATS, LSTM)
     
      
