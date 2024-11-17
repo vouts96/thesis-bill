@@ -1,0 +1,196 @@
+Time Series ID: 1, Series ID: AG. THEODOROI
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 2, Series ID: AGIA TRIADA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 3, Series ID: ALEXANDROUPOLIS
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 4, Series ID: ALIVERI (PPC)
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 5, Series ID: ALOYMINION
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 6, Series ID: ALOYMINION II
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 7, Series ID: ALOYMINION III
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 9, Series ID: ATHENS
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 10, Series ID: DRAMA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 11, Series ID: ELPE
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 12, Series ID: ELPE-HAR
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 13, Series ID: ELPE-VEE
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 14, Series ID: ENERGIAKI THESS. (ELPE)
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 15, Series ID: FARSALA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 16, Series ID: HERON II
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 17, Series ID: HERONAS
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 18, Series ID: KARDITSA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 19, Series ID: KATERINI
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 20, Series ID: KAVALA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 23, Series ID: KILKIS
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 24, Series ID: KIPI
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 25, Series ID: KOKKINA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 26, Series ID: KOMOTINI
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 27, Series ID: KOMOTINI (PPC)
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 28, Series ID: KOSMIO
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 29, Series ID: LAMIA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 30, Series ID: LARISSA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 31, Series ID: LAVRIO (PPC)
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 32, Series ID: MEGALOPOLI
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 33, Series ID: MEGALOPOLI (PPC)
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 34, Series ID: MOTOR OIL
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 35, Series ID: MOTOR OIL II
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 36, Series ID: NEA MESIMVRIA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 37, Series ID: OINOFYTA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 38, Series ID: PLATY
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 39, Series ID: SALFA ANO LIOSSIA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 40, Series ID: SALFA ANTHOUSSA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 41, Series ID: SERRES
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 42, Series ID: SIDIROKASTRO
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 43, Series ID: SIDIROKASTRO ΕΧΙΤ
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 44, Series ID: SPATA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 45, Series ID: THESSALONIKI
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 46, Series ID: THISVI
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 47, Series ID: THRIASSIO
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 48, Series ID: TRIKALA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 49, Series ID: VFL
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 50, Series ID: VIPE LARISSA
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 51, Series ID: VOLOS
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
+Time Series ID: 52, Series ID: XANTHI
+Start: 2022-08-17 06:00:00
+End: 2024-01-02 18:00:00
+
